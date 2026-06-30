@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Secure VPN Pro+",
+  "description": "Infinity Secure VPN Pro+ - Secure DNS & WARP Tunnel Protector",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
